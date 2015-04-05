@@ -1,7 +1,7 @@
 GitHub Example
 ==============
 
-This is a simple example repository, and here's an edit inside a branch.
+This is a simple example repository.
 
 How to Contribute
 =================
